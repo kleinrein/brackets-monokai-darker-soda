@@ -1,0 +1,15 @@
+{
+    "name": "andreasrein.monokai-darker-soda",
+    "title": "Monokai Darker Soda",
+    "description": "",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Andreas Rein <rein@live.no>",
+    "license": "MIT",
+    "theme": {  
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
